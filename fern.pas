@@ -7,7 +7,7 @@
   * Purpose   : This program produces a fractal fern           *
   ************************************************************** }
 program Fern;
-uses Crt,Graph,Drivers;
+uses Crt,Graph;
 
 { **************************************************************
   * Routine: GetStarted                                        *
