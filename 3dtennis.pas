@@ -256,7 +256,7 @@ end; { WaitForKey }
 procedure Copyright;
 begin
   ClrScr;
-  Writeln('3DTennis * Copyright (c) 1990-2019 by Tony G. Papadimitriou');
+  Writeln('3DTennis * Copyright (c) 1990-2020 by Tony G. Papadimitriou');
   Writeln;
   Writeln('After the screen is drawn, you can press:');
   Writeln('   < left arrow to decrease the value of the X axis');

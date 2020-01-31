@@ -82,7 +82,7 @@ var color: Integer;
 begin
   Color := GetColor;
   SetColor(White);
-  OutTextXY(1,1,'Fern using fractals (c) 1990-2019 by Tony G. Papadimitriou');
+  OutTextXY(1,1,'Fern using fractals (c) 1990-2020 by Tony G. Papadimitriou');
   SetColor(Color);
 end; { ShowMessage }
 
